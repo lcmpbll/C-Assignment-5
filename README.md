@@ -1,4 +1,4 @@
-# Stocker Tracker
+# Stocker Tracker 📊📈📉📊
 
 ## By Liam Campbell
 
