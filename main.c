@@ -1,5 +1,14 @@
 #include <stdio.h>
-
+/******************************************************************************
+# Author:           Liam Campbell
+# Lab:              Assignment #5
+# Date:             October 24th, 2023
+# Description:      Track your stocks
+# Input:            char menuOption, int stockIdNums[], double stockPrices[]                       int stockToUpdate,
+                    double udatePrice, pricePoint, 
+# Output:           int stockIdNums[], double stockPrices
+# Sources:          None
+#******************************************************************************/
 int main(void) {
   int stockIdNums[5];
   double stockPrices[5];
